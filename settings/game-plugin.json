@@ -1,0 +1,12 @@
+{
+  "filename": "jumpList_full.json",
+  "gameListFilePath": "assets\\resources\\gameList",
+  "serverUrl": "https://x.198174.com",
+  "gameId": -1,
+  "jumpListEnable": false,
+  "appIdList": false,
+  "uploadResEnable": false,
+  "uploadImportDirEnable": false,
+  "optimization": false,
+  "subPkgUpload": false
+}
